@@ -28,7 +28,7 @@ DateTime==4.3
 decorator==4.4.0
 defusedxml==0.6.0
 diff-match-patch==20181111
-Django==3.0.3
+Django==3.0.7
 django-crispy-forms==1.9.0
 docutils==0.15.2
 entrypoints==0.3
